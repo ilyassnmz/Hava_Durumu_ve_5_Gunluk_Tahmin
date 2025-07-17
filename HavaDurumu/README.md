@@ -10,8 +10,6 @@ Bu proje, OpenWeatherMap API kullanarak şehir bazlı **anlık hava durumu** ve 
 - 🌐 Responsive tasarım (mobil/tablet uyumlu)
 - ⚠️ Hatalı girişlerde kullanıcıya uyarı mesajı
 
-## 🖼️ Ekran Görüntüsü
-
 ## 🔧 Kullanılan Teknolojiler
 
 - ✅ HTML5
@@ -19,7 +17,7 @@ Bu proje, OpenWeatherMap API kullanarak şehir bazlı **anlık hava durumu** ve 
 - ✅ JavaScript (ES6+)
 - ✅ OpenWeatherMap API
 
-> 📸 
+> ## 🖼️ Ekran Görüntüsü 📸 
 
 ![Ana Ekran](Photo/Ana-Ekran.jpg)
 ![Bulutlu Hava](Photo/Bulutlu-hava.jpg)
